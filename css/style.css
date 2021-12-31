@@ -1,0 +1,166 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+/* header part */
+#header{
+    width: 100%;
+    float: left;
+    padding: 0px;
+    margin: 0px 0px;
+    background: #223047;
+    height: 580px;
+}
+
+
+.main-header{
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid white;
+}
+.logo{
+    width: 20%;
+    float: left;
+    padding: 15PX;
+    text-align: center;
+}
+.menu{
+    width: 60%;
+    float: left;
+    text-align: center;
+}
+.menu nav{
+
+}
+.menu nav ul{
+
+}
+.menu nav ul li{
+    display: inline-block;
+    font-size: 30px;
+}
+.menu nav ul li a{
+    margin: 50px;
+    color: black;
+    font-size:25px;
+    
+}
+.button{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.btn a button{
+    padding: 10px 10px;
+    border-radius: 20px;
+    width: 200px;
+}
+.btn img{ 
+    width: 20px;  
+}
+/* hero part  */
+.hero{
+    width: 100%;
+    float: left;
+    padding: 50px;
+    margin: 50px;
+}
+.writing-part{
+    width: 50%;
+    float: left;
+    position: relative;
+    right: 20px;
+    left: 100px;
+    font-size: 20px;
+}
+.writing-part h1{
+
+
+}
+.writing-part p{
+    position: absolute;
+    top: 120px;
+}
+.btn2{
+
+    position: absolute;
+    top: 300px;
+}
+.btn2 a button{
+    width: 200px;
+    height: 50px;
+    background-color: cyan;
+    
+    border-radius: 50px;
+}
+.btn3{
+    position: absolute;
+    top: 300px;
+    left: 210px;
+}
+.btn3 a button{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    background: transparent;
+    border: 2px solid white;
+
+}
+.img-part{
+    width:50%;
+    float: left;
+    position: relative;
+    left: 50px;
+}
+.img-part img{
+    width: 235px;
+}
+/* feature section */
+#feature{
+    width: 100%;
+    float: left;
+    position: relative;
+    top: 100px;
+
+}
+.part1{
+    width: 100%;
+    float: left;
+
+}
+.part1 h1{
+    text-align: center;
+
+}
+.part2{
+    width: 100%;
+    float: left;
+
+}
+.btn4{
+    width: 100%;
+    float: left;
+
+}
+.icon-box{
+    width: 25%;
+    float: left;
+
+}
+.icon-box img{
+
+}
+.icon-box h2{
+
+}
+.icon-box p{
+
+}
+
+
